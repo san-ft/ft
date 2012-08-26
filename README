@@ -1,0 +1,19 @@
+Ft
+========================
+
+This application was generated with the rails_apps_composer gem:
+https://github.com/RailsApps/rails_apps_composer
+provided by the RailsApps Project:
+http://railsapps.github.com/
+
+________________________
+
+Recipes:
+["auth", "controllers", "core", "email", "extras", "frontend", "gems", "git", "init", "models", "railsapps", "readme", "routes", "setup", "testing", "views"]
+
+Preferences:
+{:git=>true, :railsapps=>"none", :dev_webserver=>"webrick", :database=>"mysql", :templates=>"erb", :unit_test=>"rspec", :integration=>"cucumber", :fixtures=>"factory_girl", :frontend=>"bootstrap", :bootstrap=>"sass", :email=>"none", :authentication=>"devise", :devise_modules=>"default", :authorization=>"cancan", :starter_app=>"admin_app", :ban_spiders=>true, :jsruntime=>true, :rvmrc=>true}
+
+________________________
+
+License
